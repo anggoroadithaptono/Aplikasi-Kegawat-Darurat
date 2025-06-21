@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "495214950279",
+    "project_id": "sigap-255d9",
+    "storage_bucket": "sigap-255d9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495214950279:android:5b97d4d2f954c9d3210522",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfUUascDESEnjm8Zn_a3dDqyZtm-3HcyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
