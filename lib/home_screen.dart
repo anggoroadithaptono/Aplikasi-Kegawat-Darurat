@@ -51,7 +51,7 @@ class _HomeScreenState extends State<HomeScreen> {
         animationDuration: const Duration(milliseconds: 400),
         items: <Widget>[
           Icon(Icons.home, size: 30, color: Colors.white),
-          Icon(Icons.article, size: 30, color: Colors.white), // Icons.article lebih relevan untuk "Buletin Hari Ini" / News
+          Icon(Icons.article, size: 30, color: Colors.white), 
           Icon(Icons.sos, size: 30, color: Colors.white),
           Icon(Icons.groups, size: 30, color: Colors.white),
           Icon(Icons.person, size: 30, color: Colors.white),
